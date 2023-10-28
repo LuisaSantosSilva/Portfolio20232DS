@@ -12,7 +12,7 @@ Nos três primeiros anos, o aluno cursa o Ensino Médio integrado ao Técnico e 
 Formação: ao completar os três primeiros anos de estudo, além de ter concluído o Ensino Médio o aluno receberá o diploma de técnico, que lhe dará o direito de exercer a habilitação profissional.
 
 ##
-Sou aluna e estou no 2°ano do ensino médio no curso de Desenvolvimento de Sistemas. Em agosto de 2023 entrei para o AMS, durante esse período partcipei de palestras, fiz projetos em grupo com o tema de desenvolvimento de um site de floricultura que vão desde o front-end, análise do projeto, criação de design até o back-end e também um projeto individual com o tema de criação de site para a ETEC Zona Leste com brainstorm, entrevistas, wireframes, framework, recursos de javascript e etc.
+**Sou aluna e estou no 2°ano do ensino médio no curso de Desenvolvimento de Sistemas. Em agosto de 2023 entrei para o AMS, durante esse período partcipei de palestras, fiz projetos em grupo com o tema de desenvolvimento de um site de floricultura que vão desde o front-end, análise do projeto, criação de design até o back-end e também um projeto individual com o tema de criação de site para a ETEC Zona Leste com brainstorm, entrevistas, wireframes, framework, recursos de javascript e etc.**
 
 ##
 **Palestras:**<br><br>
@@ -34,7 +34,7 @@ O projeto foi dividido em duas partes.
 Na primeira parte foram definidas as cores e fontes do visual do site.<br>
 Já na segunda parte fizemos a documentação com diagramas, utilizando a UML (Unified Modeling Language), logo após utilizamos as linguagens de programação JavaScript, PHP e implementamos as APIs (Application Programming Interface) para suporte a Libras em nosso sistema e ViaCep para Consultar CEP de endereçamento do Brasil gratuitamente.
 
-Linguagens e técnologias que utilizamos:<br>
+**Linguagens e técnologias que utilizamos:** <br>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="30"/>&nbsp;
@@ -51,7 +51,7 @@ Linguagens e técnologias que utilizamos:<br>
 > **Resp:** Seu nome veio da metáfora, frequentemente utilizada no linguajar cotidiano, mostrando que nossas flores podem ser seu verdadeiro mar de rosas.
 
 **Q:** Qual o principal diferencial?
-> **Resp:** Além do acompanhamento da entrega do pedidd, classificação do produto o principal diferencial é a niciativa que combina a beleza das flores com uma prposta social, onde um determinado valor de cada compra é utilizado para arrecadar recursos para ONGs (organizações não governamentais) que ajudam o meio ambiente.
+> **Resp:** Além do acompanhamento da entrega do pedido e classificação do produto o principal diferencial é a iniciativa que combina a beleza das flores com uma proposta social, onde um determinado valor de cada compra é utilizado para arrecadar recursos para ONGs (organizações não governamentais) que ajudam o meio ambiente.
 
 ##
 **Caso queiram conhecer mais sobre o curso AMS:**
