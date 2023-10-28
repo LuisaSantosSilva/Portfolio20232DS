@@ -15,8 +15,15 @@ Formação: ao completar os três primeiros anos de estudo, além de ter conclu�
 Sou aluna e estou no 2°ano do ensino médio no curso de Desenvolvimento de Sistemas. Em agosto de 2023 entrei para o AMS, durante esse período partcipei de palestras, fiz projetos em grupo com o tema de desenvolvimento de um site de floricultura que vão desde o front-end, análise do projeto, criação de design até o back-end e também um projeto individual com o tema de criação de site para a ETEC Zona Leste com brainstorm, entrevistas, wireframes, framework, recursos de javascript e etc.
 
 ##
+**Palestras:**<br><br>
+A partir do mês de agosto (mês que entrei no AMS) participei das seguintes palestras:
 
-**BeloMar:**<br><br>
+[![Palestras](https://img.shields.io/badge/Palestras-2023-F16061?style=for-the-badge)](https://github.com/LuisaSantosSilva/Portfolio20232DS/tree/main/Palestras)
+
+
+##
+
+**BeloMar:** <br><br>
 O Projeto BeloMar foi feito em grupo e é o desenvolvimento de um site de floricultura online. <br>
 
 O projeto foi dividido em duas partes.
@@ -45,8 +52,6 @@ Linguagens e técnologias que utilizamos:<br>
 
 **Q:** Qual o principal diferencial?
 > **Resp:** Além do acompanhamento da entrega do pedidd, classificação do produto o principal diferencial é a niciativa que combina a beleza das flores com uma prposta social, onde um determinado valor de cada compra é utilizado para arrecadar recursos para ONGs (organizações não governamentais) que ajudam o meio ambiente.
-
-
 
 ##
 **Caso queiram conhecer mais sobre o curso AMS:**
