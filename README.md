@@ -2,6 +2,7 @@
 Criado para colocar arquivos e projetos feitos no ano de 2023 no curso de Desenvolvimento de Sistemas Articulação Formação Média Superior (AMS) na ETEC Zona Leste
 
 ##
+
 Olá meu Nome é Luisa Santos e esse é meu Portfólio de 2023. 
 
 O que é o AMS? <br>
@@ -18,7 +19,7 @@ Formação: ao completar os três primeiros anos de estudo, além de ter conclu�
 ## Palestras: 
 A partir do mês de agosto (mês que entrei no AMS) participei das seguintes palestras:
 
-[![Palestras](https://img.shields.io/badge/Palestras-2023-4682B4?style=for-the-badge)](https://github.com/LuisaSantosSilva/Portfolio20232DS/tree/main/Palestras)
+[![Palestras](https://img.shields.io/badge/Palestras-2023-214F84?style=for-the-badge)](https://github.com/LuisaSantosSilva/Portfolio20232DS/tree/main/Palestras)
 
 
 ##
@@ -83,7 +84,11 @@ Após isso fiz o alinhamento do Brainstorm.
 ```
 https://cps.sp.gov.br/tipo-curso-etec/ams/
 ```
-<a href='https://www.cps.sp.gov.br/etec/'><img width="100" src="https://media.canva.com/1/image-resize/1/182_115_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9pNGptRS9NQUZ4a0VpNGptRS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAHm4J0dYeSrLg3OcuYDNti39Ks0FpqTfQGu7j52sBNJo&exp=1698221154&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAAITrDRJwpLkbVbYD9AAbKkGfDlNg-JJpdqtsyccUXdV2"> </a>
+
+
+<img width="60" src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/10/centro-paula-souza-logo.svg">&nbsp;&nbsp;&nbsp;
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1200px-IBM_logo.svg.png">
+<br>
 
 ##
 **Contatos:**
