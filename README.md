@@ -1,4 +1,4 @@
-### Portfólio 2023 2°DS
+# Portfólio 2023 2°DS
 Criado para colocar arquivos e projetos feitos no ano de 2023 no curso de Desenvolvimento de Sistemas Articulação Formação Média Superior (AMS) na ETEC Zona Leste
 
 ##
@@ -12,18 +12,18 @@ Nos três primeiros anos, o aluno cursa o Ensino Médio integrado ao Técnico e 
 Formação: ao completar os três primeiros anos de estudo, além de ter concluído o Ensino Médio o aluno receberá o diploma de técnico, que lhe dará o direito de exercer a habilitação profissional.
 
 ##
-**Sou aluna e estou no 2°ano do ensino médio no curso de Desenvolvimento de Sistemas. Em agosto de 2023 entrei para o AMS, durante esse período partcipei de palestras, fiz projetos em grupo com o tema de desenvolvimento de um site de floricultura que vão desde o front-end, análise do projeto, criação de design até o back-end e também um projeto individual com o tema de criação de site para a ETEC Zona Leste com brainstorm, entrevistas, wireframes, framework, recursos de javascript e etc.**
+**Sou aluna e estou no 2°ano do ensino médio no curso de Desenvolvimento de Sistemas. Em agosto de 2023 entrei para o AMS, durante esse período participei de palestras, fiz projetos em grupo com o tema de desenvolvimento de um site de floricultura que vão desde o front-end, análise do projeto, criação de design até o back-end e também um projeto individual com o tema de criação de site para a ETEC Zona Leste com brainstorm, entrevistas, wireframes, framework, recursos de javascript e etc.**
 
 ##
-**Palestras:**<br><br>
+## Palestras: 
 A partir do mês de agosto (mês que entrei no AMS) participei das seguintes palestras:
 
-[![Palestras](https://img.shields.io/badge/Palestras-2023-F16061?style=for-the-badge)](https://github.com/LuisaSantosSilva/Portfolio20232DS/tree/main/Palestras)
+[![Palestras](https://img.shields.io/badge/Palestras-2023-4682B4?style=for-the-badge)](https://github.com/LuisaSantosSilva/Portfolio20232DS/tree/main/Palestras)
 
 
 ##
 
-**BeloMar:** <br><br>
+## BeloMar: 
 O Projeto BeloMar foi feito em grupo e é o desenvolvimento de um site de floricultura online. <br>
 
 O projeto foi dividido em duas partes.
@@ -58,12 +58,34 @@ Já na segunda parte fizemos a documentação com diagramas, utilizando a UML (U
 > **Resp:** Além do acompanhamento da entrega do pedido e classificação do produto o principal diferencial é a iniciativa que combina a beleza das flores com uma proposta social, onde um determinado valor de cada compra é utilizado para arrecadar recursos para ONGs (organizações não governamentais) que ajudam o meio ambiente.
 
 ##
+
+## Site Etec Zona Leste
+Repositório criado para fins acadêmicos de um projeto onde o tema é o desenvolvimento de um site para a ETEC Zona Leste.
+
+Obs: O Projeto está em processo de desenvolvimento.
+
+##
+
+Para começar este projeto fiz o Brainstorm no papel e entrevistas.
+
+Realizei entrevistas com dois ex-alunos da escola, três estudantes que ainda estão matriculados, um professor e um pai de aluno. O objetivo da entrevista foi coletar opiniões e sugestões sobre o que eles gostariam de ver no site da escola, visando aprimorar a experiência dos usuários e fornecer informações mais relevantes.
+
+Após isso fiz o alinhamento do Brainstorm.
+
+**Clique no Link abaixo e acesse essa documentação:**
+  
+[![Documentos](https://img.shields.io/badge/Documentação_Site_ETEC_Zona_Leste-8B0000?style=for-the-badge)](https://github.com/LuisaSantosSilva/SiteEtecZonaLeste/tree/main/Documentos)
+
+
+##
 **Caso queiram conhecer mais sobre o curso AMS:**
 
 ```
 https://cps.sp.gov.br/tipo-curso-etec/ams/
 ```
+<a href='https://www.cps.sp.gov.br/etec/'><img width="100" src="https://media.canva.com/1/image-resize/1/182_115_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9pNGptRS9NQUZ4a0VpNGptRS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAHm4J0dYeSrLg3OcuYDNti39Ks0FpqTfQGu7j52sBNJo&exp=1698221154&x-canva-quality=thumbnail&csig=AAAAAAAAAAAAAAAAAAAAAITrDRJwpLkbVbYD9AAbKkGfDlNg-JJpdqtsyccUXdV2"> </a>
 
+##
 **Contatos:**
 
 Se você quiser conectar ou entrar em contato comigo, estou disponível via e-mail pelo Gmail ou através do LinkedIn. Sinta-se à vontade para acessar meu Gmail para trocar mensagens ou enviar um convite de conexão pelo LinkedIn.
