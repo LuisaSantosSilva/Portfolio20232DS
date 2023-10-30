@@ -1,0 +1,6 @@
+[submodule "BeloMar"]
+	path = BeloMar
+	url = https://github.com/LuisaSantosSilva/BeloMar.git
+[submodule "SiteEtecZonaLeste"]
+	path = SiteEtecZonaLeste
+	url = https://github.com/LuisaSantosSilva/SiteEtecZonaLeste.git
