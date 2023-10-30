@@ -27,6 +27,10 @@ A partir do mês de agosto (mês que entrei no AMS) participei das seguintes pal
 ## BeloMar: 
 O Projeto BeloMar foi feito em grupo e é o desenvolvimento de um site de floricultura online. <br>
 
+**Acesse o Repositório do Projeto:** <br>
+
+[![Projeto](https://img.shields.io/badge/BeloMar-363636?style=for-the-badge)](https://github.com/LuisaSantosSilva/BeloMar)
+
 O projeto foi dividido em duas partes.
 
 - Parte 1: Elaboração e desenvolvimento de wireframes e do site front-end.​<br>
@@ -61,9 +65,15 @@ Já na segunda parte fizemos a documentação com diagramas, utilizando a UML (U
 ##
 
 ## Site Etec Zona Leste
-Repositório criado para fins acadêmicos de um projeto onde o tema é o desenvolvimento de um site para a ETEC Zona Leste.
+Criado para fins acadêmicos de um projeto onde o tema é o desenvolvimento de um site para a ETEC Zona Leste.
 
 Obs: O Projeto está em processo de desenvolvimento.
+
+**Acesse o Repositório do Projeto:** <br>
+
+[![Projeto](https://img.shields.io/badge/Site_ETEC_Zona_Leste-363636?style=for-the-badge)](https://github.com/LuisaSantosSilva/SiteEtecZonaLeste)
+
+
 
 ##
 
